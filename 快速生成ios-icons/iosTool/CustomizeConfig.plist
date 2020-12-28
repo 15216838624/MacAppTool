@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appId</key>
+	<string>CloudStudyBeta</string>
+	<key>corpCode</key>
+	<string></string>
+	<key>themeColor</key>
+	<string>ef2200</string>
+	<key>buildFileName</key>
+	<string>CloudStudy</string>
+	<key>showAppNameOnLogin</key>
+	<true/>
+	<key>openUrl</key>
+	<string>v4.21tb.com</string>
+	<key>openAppKey</key>
+	<string>2EEEA75929C0400396D7E5E133D20405</string>
+	<key>openSecret</key>
+	<string>9D5A61B48DB44F78A974C5B35B141E8F</string>
+	<key>customLoginPageUrl</key>
+	<string></string>
+	<key>navigationStyleWhite</key>
+	<true/>
+	<key>wechatShare</key>
+	<true/>
+	<key>wechatLogin</key>
+	<true/>
+	<key>uploadForAppstore</key>
+	<true/>
+	<key>loginBackgroundImage</key>
+	<false/>
+	<key>appleIdLogin</key>
+	<true/>
+</dict>
+</plist>
